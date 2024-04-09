@@ -11,6 +11,7 @@ function clearCards() {
     while(fruitContainer.firstChild) {
         fruitContainer.removeChild(fruitContainer.firstChild);
     }
+    
 }
 
 function runProgram() {
